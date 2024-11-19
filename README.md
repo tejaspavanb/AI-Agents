@@ -119,5 +119,5 @@ ai_data_extraction_agent/
 ## Demo
 
 1. **Watch the Walkthrough**:
-   - [Loom video link]([https://www.loom.com/](https://www.loom.com/share/bcbc0313ea0742268b0d0dd41083acc2?sid=7ba7953c-154d-4e40-a298-b97ddeb3e301)) (Please replace this with your Loom video link.)
+   - [Loom video link] (https://www.loom.com/share/bcbc0313ea0742268b0d0dd41083acc2?sid=7ba7953c-154d-4e40-a298-b97ddeb3e301)
 
